@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+
+}
+main{
+    /* border: 2px solid red; */
+    width: 450px;
+    height: 120px;
+    display: flex;
+    color: aqua;
+
+}
+.box{
+    border: 1px solid green;
+    width: 25%;
+    padding: 1rem;
+    font-size: 3rem;
+}
+.dd{
+    padding: 1rem 0;
+    font-size: 3rem;
+}
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+    width: 450px;
+
+}
