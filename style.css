@@ -22,7 +22,7 @@ main{
 
 }
 .box{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     width: 25%;
     padding: 1rem;
     font-size: 3rem;
